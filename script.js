@@ -1,8 +1,11 @@
 // Example data
 const players = [
     { name: "Lionel Messi", wins: 20, draws: 5, losses: 3, goals: 30 },
-    { name: "Cristiano Ronaldo", wins: 25, draws: 4, losses: 2, goals: 40 },
-    { name: "Araf Islam", wins: 15, draws: 6, losses: 5, goals: 20 },
+    { name: "Sowmik", wins: 25, draws: 4, losses: 2, goals: 40 },
+    { name: "Araf", wins: 15, draws: 6, losses: 5, goals: 20 },
+    { name: "Naim", wins: 20, draws: 5, losses: 3, goals: 30 },
+    { name: "Sakib", wins: 25, draws: 4, losses: 2, goals: 40 },
+    { name: "Rumman", wins: 15, draws: 6, losses: 5, goals: 20 },
 ];
 
 // Search Function
