@@ -1,11 +1,17 @@
 // Example data
 const players = [
-    { name: "Lionel Messi", wins: 20, draws: 5, losses: 3, goals: 30 },
-    { name: "Sowmik", wins: 25, draws: 4, losses: 2, goals: 40 },
-    { name: "Araf", wins: 15, draws: 6, losses: 5, goals: 20 },
-    { name: "Naim", wins: 20, draws: 5, losses: 3, goals: 30 },
-    { name: "Sakib", wins: 25, draws: 4, losses: 2, goals: 40 },
-    { name: "Rumman", wins: 15, draws: 6, losses: 5, goals: 20 },
+    { name: "Arif", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Sowmik", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Araf", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Naim", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Sakib", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Rumman", wins: 0, draws: 0, losses: 0, goals: 0 },
+     { name: "Sayeed", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Shipon", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Shojib", wins: 0, draws: 0, losses: 0, goals: 0 },
+     { name: "Anam", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Nayon", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Shakib", wins: 0, draws: 0, losses: 0, goals: 0 },
 ];
 
 // Search Function
