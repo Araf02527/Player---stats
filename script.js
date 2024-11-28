@@ -10,7 +10,7 @@ const players = [
     { name: "Shipon", wins: 0, draws: 0, losses: 0, goals: 0 },
     { name: "Shojib", wins: 0, draws: 0, losses: 0, goals: 0 },
      { name: "Anam", wins: 0, draws: 0, losses: 0, goals: 0 },
-    { name: "Nayon", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Andy", wins: 0, draws: 0, losses: 0, goals: 0 },
     { name: "Shakib", wins: 0, draws: 0, losses: 0, goals: 0 },
 ];
 
