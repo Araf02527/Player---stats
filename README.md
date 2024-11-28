@@ -1,2 +1,2 @@
 # Player---stats
-Bellon D'or
+Bellon D'or remaining for 3 tournament 
