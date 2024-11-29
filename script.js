@@ -19,7 +19,7 @@ const players = [
     { name: "Nazmul", wins: 0, draws: 0, losses: 0, goals: 0 },
      { name: "Riyad", wins: 0, draws: 0, losses: 0, goals: 0 },
     { name: ".", wins: 0, draws: 0, losses: 0, goals: 0 },
-    { name: ".", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Mashrafi", wins: 0, draws: 0, losses: 0, goals: 0 },
 ];
 
 // Search Function
