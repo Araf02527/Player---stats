@@ -14,6 +14,12 @@ const players = [
     { name: "Shakib", wins: 0, draws: 0, losses: 0, goals: 0 },
     { name: "Amit", wins: 0, draws: 0, losses: 0, goals: 0 },
     { name: "Mofizur", wins: 0, draws: 0, losses: 0, goals: 0 },
+     { name: "Nayon", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Ozil", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Nazmul", wins: 0, draws: 0, losses: 0, goals: 0 },
+     { name: "Riyad", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: ".", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: ".", wins: 0, draws: 0, losses: 0, goals: 0 },
 ];
 
 // Search Function
