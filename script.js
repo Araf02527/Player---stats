@@ -12,6 +12,8 @@ const players = [
      { name: "Anam", wins: 0, draws: 0, losses: 0, goals: 0 },
     { name: "Andy", wins: 0, draws: 0, losses: 0, goals: 0 },
     { name: "Shakib", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Amit", wins: 0, draws: 0, losses: 0, goals: 0 },
+    { name: "Mofizur", wins: 0, draws: 0, losses: 0, goals: 0 },
 ];
 
 // Search Function
